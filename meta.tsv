@@ -35,7 +35,7 @@ User ID	Username	Display Name	Namespaces
 1206119938897616957	triblast.	Tri-Blast	default,ico,creature,murder,springytwow
 926169364489728083	xnopytt	Xnopyt	default,tdq2,iso,alternative,twdow,lightningjelly,antipuns
 1024814311085981747	eduuu____	Edu	default,tdq2,tdq's,old,periodic,imperialtwow
-754431586815967284	loseuparrow	vgean styrofoam alternative↑	default
+754431586815967284	loseuparrow	=LET(name, value_expression)↑	default
 450030739476709378	adamanti	Adamanti	default,neo,tdq2
 691951136286048257	meid_ayz	Mei	default,murder,murder-ex
 1171286357000343627	pinkmanpinkmanpinkman	pink man	default
@@ -115,7 +115,7 @@ User ID	Username	Display Name	Namespaces
 730832920687673405	sillycircus_atc	Clown Hat/Silly Circus	default
 767902032535093278	justanormalchomik	chomik	default,iso,imperialtwow
 1012853842418872390	eybhellollehbye	eyb	default,tdq2
-609155620700160041	sbevenston	sbeve	default,iso,murder
+609155620700160041	sbevenston	sbeve	default,iso,murder,limbo
 321531420289794049	ixcors	Ixcors	default,murder
 476241113892519949	notadonut_official	not a donut	default
 637921982830084098	kilometersedgeworth	DanDolphincrash	default
